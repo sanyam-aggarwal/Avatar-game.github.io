@@ -1,26 +1,35 @@
 body{
-	background: linear-gradient(90deg, rgba(147,52,52,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+	color: black;
 	height: 815px;
     padding-top: 50px;
+
 }
-h1,h2{
-    font-family: 'Metal Mania', cursive;
+h1{
+    font-size: 200px;
 text-align: center;
+    color:red;
 }
 img{
     width: 200px;
     height: 200px;
 }
 input{
-    background-color:aqua;
-    width:250px;
+    background-color:white;
+    width:300px;
+    height: 40px;
+    font-size: 55px;
 }
 #c{
     
-    padding-top: 20px;
+    padding-top: 0px;
     padding-bottom: 30px;
-     width: 400px;
-    height: 400px;
+     width: 700px;
+    height: 550px;
     background-color: black;
+}
+#sam{
+height:350px;
+    width: 350px;
+    padding-top: 15px;
 }
 
